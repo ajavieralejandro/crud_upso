@@ -49,7 +49,7 @@ $result = $conn->query($sql);
         </table>
         <div class="text-end">
 
-            <a class="btn btn-primary " href="./index.php" role="button">Agregar Usuario</a>
+            <a class="btn btn-primary " href="./create_user.php" role="button">Agregar Usuario</a>
         </div>
     </div>
 

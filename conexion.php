@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "upso_crud";
+$username = "upso_crud_2";
 $password = "upso";
 $dbname = "upso_crud";
 
