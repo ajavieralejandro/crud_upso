@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "upso_crud_2";
+$username = "upso";
 $password = "upso";
 $dbname = "upso_crud";
 
@@ -11,4 +11,3 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Conexión fallida: " . $conn->connect_error);
 }
-?>
